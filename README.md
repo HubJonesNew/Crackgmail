@@ -4,14 +4,14 @@
 # Saya mah kasih info selebihnya dong😇 kalo ada salah minta maaf 🙏
 # Nanti hasil di file anda cari HUBJONES-HASIL
 
-git clone https://github.com/HubJonesNew/CrackGmail.git
+👉 git clone https://github.com/HubJonesNew/CrackGmail.git
 
-ls
+👉 ls
 
-cd CrackGmail
+👉 cd CrackGmail
 
-ls
+👉 ls
 
-git pull
+👉 git pull
 
-python CrackGmail.py
+👉 python CrackGmail.py
